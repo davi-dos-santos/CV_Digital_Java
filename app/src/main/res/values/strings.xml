@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CV_Digital_Java</string>
+    <string name="app_name">CV_Digital</string>
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
@@ -9,4 +9,7 @@
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
+    <string name="imprimir">"imprimir"</string>
+    <string name="digitar_nome">"Digitar Nome"</string>
+    <string name="teste">"teste"</string>
 </resources>
